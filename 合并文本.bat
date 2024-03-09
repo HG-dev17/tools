@@ -1,0 +1,1 @@
+for %%i in (*.lrc) do type %%i>>合并文本.txt
